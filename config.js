@@ -22,10 +22,10 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 global.ownername = 'THE JO BOT'
 // Other
-global.owner = ['62882021495800']
-global.premium = ['62882021495800']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
+global.owner = ['6287837703726']
+global.premium = ['6287837703726']
+global.packname = 'Dibuat Oleh'
+global.author = 'Fauzi:+6287837703726'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
